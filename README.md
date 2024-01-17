@@ -15,3 +15,8 @@
   'Mouse' bibleotēka priekš vienas komandas ( mouse.double_click(button='left')), lai kliksķinātu uz peles.
   'Keyboard' bibleotēka, lai izveidot karstu pogu.
   'Time' bibleotēka, lai noturēt pauzas pēc klikšķiem un infomācijas nodošanas.
+
+
+  Nobeigumā:
+
+  Man patika veidot savu mazu projektu tieši tāpēc kā izveidoju kaut ko priekš sevis un uzzināju klāt jaunas, interesējošas lietas. Godīgi sakot, ja ne šīs kurss diezvai es ķertos klāk Pyton valodai, bet tomēr saprotu, ka šīs projekts ir tālu no tēmām, ko apskatījām studiju programmā. Ceru, ka mana interpritācija automatizēšanas procesā būs pieņemta.
